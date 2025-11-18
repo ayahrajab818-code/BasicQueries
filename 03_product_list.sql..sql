@@ -1,0 +1,7 @@
+use northwind;
+
+select productID, productName, unitprice 
+
+from products
+
+order by UnitPrice
